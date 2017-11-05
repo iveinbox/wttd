@@ -1,0 +1,13 @@
+Olá, tudo bem?
+
+Fiquei muito feliz em saber que você vai para participar do nosso evento!
+Confira os dados que você cadastrou:
+
+Nome: {{ name }}
+CPF: {{ cpf }}
+email: {{ email }}
+Telefone: {{ phone }}
+
+Abraçoes,
+
+Morena!
